@@ -22,8 +22,6 @@ The app uses SwiftUI, AVPlayer, and the RaiPlay Sound on-air JSON endpoint. It h
 - Refresh the live schedule and selected station details automatically at each minute boundary.
 - Refresh the on-air schedule with ⌘R.
 
-The schedule and stream URLs come from unofficial public endpoints and may change without notice. Some stations may not have a configured stream URL.
-
 ## Swift package
 
 To build from a terminal with the Swift toolchain:
